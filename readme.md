@@ -1,4 +1,14 @@
-# Ts-Mock-Firebase
+# @get-your-greenback-tompkins/ts-mock-firebase
+
+> Note: This is the downstream package under @get-your-greenback-tompkins/ts-mock-firebase
+
+To use and publish this package you need to create a GitHub personal access token and an `.npmrc` file:
+
+```
+//npm.pkg.github.com/:_authToken=AUTHTOKEN
+```
+
+## Upstream README
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/mindhivefi/ts-mock-firebase.svg)](https://greenkeeper.io/)
 

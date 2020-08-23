@@ -1,6 +1,6 @@
 {
-  "name": "ts-mock-firebase",
-  "version": "2.3.0",
+  "name": "@get-your-greenback-tompkins/ts-mock-firebase",
+  "version": "2.3.1",
   "description": "Mock objects for Firebase",
   "main": "lib/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mindhivefi/ts-mock-firebase.git"
+    "url": "https://github.com/Get-Your-GreenBack-Tompkins/ts-mock-firebase.git"
   },
   "release": {
     "verifyConditions": "condition-circle",
@@ -108,5 +108,8 @@
   },
   "files": [
     "lib/**/*"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
